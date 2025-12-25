@@ -12,6 +12,7 @@
         "blynk.ts",
         "sntp.ts",
         "telegram.ts",
+        "api.ts",
         "thingspeak.ts"
     ],
     "testFiles": [
